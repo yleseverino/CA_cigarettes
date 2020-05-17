@@ -1,5 +1,7 @@
 # ENQUETE DE LA REGIE FRANCAISE DES TABACS
 
+![CA](CA_biplot.png "Title")
+
 Cette étude de cas est extraite de l'ouvrage de J.P. Benzecri "Analyse des données. Tome 2: l'analyse des
 correspondances". Une enquête a été effectuée auprès de cent fumeurs afin de choisir les noms de deux
 nouvelles marques de cigarettes. La première marque est destinée à une clientèle à une clientèle masculine:
