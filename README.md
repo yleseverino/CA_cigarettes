@@ -1,6 +1,6 @@
 # ENQUETE DE LA REGIE FRANCAISE DES TABACS
 
-![CA](CA_biplot.png "Title")
+![CA](CA_biplot.png "Biplot of CA with Factorminer")
 
 Cette étude de cas est extraite de l'ouvrage de J.P. Benzecri "Analyse des données. Tome 2: l'analyse des
 correspondances". Une enquête a été effectuée auprès de cent fumeurs afin de choisir les noms de deux
